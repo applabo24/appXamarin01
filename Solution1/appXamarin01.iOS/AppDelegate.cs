@@ -5,6 +5,8 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
+using appXamarin01.Core;
+
 namespace appXamarin01.iOS
 {
   // The UIApplicationDelegate for the application. This class is responsible for launching the 
